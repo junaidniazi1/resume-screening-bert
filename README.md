@@ -7,6 +7,11 @@ An **AI-powered Resume Screening System** that automatically classifies resumes 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-orange.svg)
 
+## 🎥 Demo
+
+![Resume Screening Demo](RESUMA_SCREENING.gif)
+
+
 ## 🚀 Features
 
 - **Dual Model Architecture**: Compare BERT and DistilBERT performance
